@@ -1,7 +1,7 @@
 # SolarSystem Simulation - Instructions
 
 ## Run the simulation
-To run the simulation in your web browser (Chromium, Brave, Google Chrome, etc.):
+To run the simulation in your web browser :
 
 1. Open a terminal.
 2. Run a local server with the following command:

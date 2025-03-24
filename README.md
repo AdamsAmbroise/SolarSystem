@@ -16,7 +16,7 @@ To run the simulation in your web browser :
 - right arrow: right
 - arrow up: advance
 - low arrow: back
-- "p": mount
+- "p": up
 - "m": down
 
 You can open or hide the top panel with the + and -buttons, and specify a date.
